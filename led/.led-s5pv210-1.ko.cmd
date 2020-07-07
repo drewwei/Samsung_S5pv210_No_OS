@@ -1,0 +1,1 @@
+cmd_/root/winshare/driver/led/led-s5pv210-1.ko := /usr/local/arm/arm-2009q3/bin/arm-none-linux-gnueabi-ld -EL -r  -T /root/kernel/scripts/module-common.lds --build-id -o /root/winshare/driver/led/led-s5pv210-1.ko /root/winshare/driver/led/led-s5pv210-1.o /root/winshare/driver/led/led-s5pv210-1.mod.o
