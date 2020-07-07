@@ -1,1 +1,0 @@
-cmd_/root/winshare/driver/zhulaoshi/leds-s5pv210.ko := /usr/local/arm/arm-2009q3/bin/arm-none-linux-gnueabi-ld -EL -r  -T /root/kernel/scripts/module-common.lds --build-id -o /root/winshare/driver/zhulaoshi/leds-s5pv210.ko /root/winshare/driver/zhulaoshi/leds-s5pv210.o /root/winshare/driver/zhulaoshi/leds-s5pv210.mod.o

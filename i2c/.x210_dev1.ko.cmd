@@ -1,1 +1,0 @@
-cmd_/root/winshare/driver/i2c/x210_dev1.ko := /usr/local/arm/arm-2009q3/bin/arm-none-linux-gnueabi-ld -EL -r  -T /root/kernel/scripts/module-common.lds --build-id -o /root/winshare/driver/i2c/x210_dev1.ko /root/winshare/driver/i2c/x210_dev1.o /root/winshare/driver/i2c/x210_dev1.mod.o
